@@ -5,11 +5,11 @@ python-multipart
 pypdf
 python-docx
 sqlalchemy
-psycopg[binary]
+# psycopg[binary]
 bcrypt
 pyjwt
 sqlalchemy
-psycopg[binary]
+# psycopg[binary]
 bcrypt
 pyjwt
 pytest
