@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+audit.db
+.env
+.git/
+tests/
+evals/
+.github/

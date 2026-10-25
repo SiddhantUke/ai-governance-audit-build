@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+httpx
+python-multipart
+pypdf
+python-docx
+sqlalchemy
+psycopg[binary]
+bcrypt
+pyjwt
+sqlalchemy
+psycopg[binary]
+bcrypt
+pyjwt
+pytest
+

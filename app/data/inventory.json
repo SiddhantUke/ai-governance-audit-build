@@ -1,0 +1,7 @@
+[
+  {"id": "TOOL-01", "name": "TalentScreen AI", "vendor": "HireLogic", "category": "hiring", "controls": {"human_oversight": true, "logging": true, "bias_testing": false, "transparency": true, "documentation": true, "risk_assessment": false, "incident_response": null, "data_governance": true}},
+  {"id": "TOOL-02", "name": "NovaChat Support Assistant", "vendor": "In-house", "category": "customer_support", "controls": {"human_oversight": true, "logging": true, "bias_testing": null, "transparency": true, "documentation": false, "risk_assessment": true, "incident_response": true, "data_governance": true}},
+  {"id": "TOOL-03", "name": "CreditScore Pro", "vendor": "ScoreWorks", "category": "credit_decision", "controls": {"human_oversight": false, "logging": true, "bias_testing": true, "transparency": false, "documentation": true, "risk_assessment": true, "incident_response": null, "data_governance": false}},
+  {"id": "TOOL-04", "name": "ContentGen Studio", "vendor": "CopyCloud", "category": "marketing", "controls": {"human_oversight": null, "logging": false, "bias_testing": null, "transparency": true, "documentation": true, "risk_assessment": false, "incident_response": false, "data_governance": true}},
+  {"id": "TOOL-05", "name": "FraudShield Detector", "vendor": "Sentinel Systems", "category": "fraud_detection", "controls": {"human_oversight": true, "logging": true, "bias_testing": true, "transparency": false, "documentation": true, "risk_assessment": true, "incident_response": true, "data_governance": null}}
+]
